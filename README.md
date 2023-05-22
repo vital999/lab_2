@@ -1,5 +1,1 @@
-# lab_2
-1. git clone
-2. git log
-3. git new-branch
-4. git checkout new-branch
+![image](https://github.com/vital999/lab_2/assets/129600126/081601f2-f86c-4e40-9c48-1c8d4332818c)
