@@ -1,2 +1,6 @@
-я використав команду git clone https://github.com/vital999/lab_2.git
+from num2word import word
+"""Asks for user number (integer)"""
+num = input("Enter num: ")
 
+"""Prints user number as text"""
+print("Your num is: "+ word(num))
